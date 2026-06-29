@@ -2,7 +2,7 @@ matches:
   - trigger: "!x-docker-log"
     label: "Command - Clear docker logs"
     form: |
-      sudo truncate -s 0 $(docker inspect --format='\{\{.LogPath}}' [[container_name]])
+      sudo truncate -s 0 "$(docker inspect --format='\{\{.LogPath}}' [[container_name]])"
   - trigger: "!inst-docker"
     label: "Command - Install Docker"
     replace: |
