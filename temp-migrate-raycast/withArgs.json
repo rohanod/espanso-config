@@ -1,0 +1,7 @@
+[
+  {
+    "name": "With Input - domain to regex",
+    "text": "^([a-z0-9-]+\\.)*{argument name=\"domain\"}$",
+    "keyword": "!domain-regex"
+  }
+]

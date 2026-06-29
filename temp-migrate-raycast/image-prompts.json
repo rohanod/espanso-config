@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Image - Convert to glass using JSON",
+    "file": "restyle-image-json.md",
+    "keyword": "!restyle-image:glass"
+  },
+  {
+    "name": "Image - Convert to sketch",
+    "text": "Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white paper. Emphasise crisp paper grain, subtle imperfections, and natural surface fibres. Do not show the subject actively drawing. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.",
+    "keyword": "!restyle-image:sketch"
+  },
+  {
+    "name": "Image - Convert to messy drawing",
+    "text": "Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in an old computer painting program with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.".
+    "keyword": "!restyle-image:messy-sketch"
+  }
+]

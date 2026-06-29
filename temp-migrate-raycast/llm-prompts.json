@@ -1,0 +1,6 @@
+[
+    { "name": "LLM - Summarise chat in a new prompt", "text": "Reverse engineer our conversation and write the single prompt that would have produced my final response in one go.", "keyword": "!compact-chat" },
+    { "name": "LLM - Create blueprint", "text": "First, outline the blueprint of this project and give me a one-sentence description for each stage/section.", "keyword": "!blueprint" },
+    { "name": "LLM - Rewrite prompt based on chat", "text": "Reverse-engineer our full conversation and lightly update my original prompt—keeping its structure and wording as much as possible—incorporating any extra instructions as small edits or additions.", "keyword": "!rewrite-prompt" },
+    { "name": "LLM - Image to JSON", "text": "Analyze this image and convert its visual content into a highly detailed, structured JSON format. Focus on identifying individual objects. For each key object, extract its color (using descriptive names or hex codes where possible) and its material (such as matte leather). Include JSON keys such as 'scene_type', 'overall_color_palette', and an 'objects' array containing 'name', 'color', 'material', and 'position_in_image', and add any other relevant fields needed to capture important details from the specific image. Output ONLY valid JSON and format it as a copyable JSON code block using Markdown.", "keyword": "!image-json" }
+]

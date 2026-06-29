@@ -1,0 +1,7 @@
+name: "term-snippets"
+title: "Terminal Snippets"
+description: A collection of useful terminal commands for everyday use.
+version: 0.2.0
+author: Rohan
+tags: ["shell", "commands", "terminal"]
+homepage: "https://github.com/rohanod/espanso-config"

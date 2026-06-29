@@ -1,0 +1,20 @@
+[
+  { "name": "Math Symbols - Infinity",              "text": "∞",  "keyword": "!inf"     },
+  { "name": "Math Symbols - Square Root",           "text": "√",  "keyword": "!sqrt"    },
+  { "name": "Math Symbols - Approximately",         "text": "≈",  "keyword": "!approx"   },
+  { "name": "Math Symbols - Less or Equal",         "text": "≤",  "keyword": "!leq"     },
+  { "name": "Math Symbols - Greater or Equal",      "text": "≥",  "keyword": "!geq"     },
+  { "name": "Math Symbols - Division",              "text": "÷",  "keyword": "!div"     },
+  { "name": "Math Symbols - Multiply",              "text": "×",  "keyword": "!times"   },
+  { "name": "Math Symbols - Pi",                    "text": "π",  "keyword": "!pi"      },
+  { "name": "Math Symbols - Empty Set",             "text": "∅",  "keyword": "!null" },
+  { "name": "Math Symbols - Element Of",            "text": "∈",  "keyword": "!element" },
+  { "name": "Math Symbols - Not Element Of",        "text": "∉",  "keyword": "!notelement" },
+  { "name": "Math Symbols - Intersection",          "text": "∩",  "keyword": "!intersection" },
+  { "name": "Math Symbols - Union",                 "text": "∪",  "keyword": "!union" },
+  { "name": "Math Symbols - Subset",                "text": "⊂",  "keyword": "!subset" },
+  { "name": "Math Symbols - Subset or Equal",       "text": "⊆",  "keyword": "!subseteq" },
+  { "name": "Math Symbols - Therefore",             "text": "∴",  "keyword": "!therefore" },
+  { "name": "Math Symbols - Alpha",                 "text": "α",  "keyword": "!alpha"   },
+  { "name": "Math Symbols - Beta",                  "text": "β",  "keyword": "!beta"    }
+]

@@ -1,0 +1,19 @@
+[
+  { "name": "Superscript - 2", "text": "²", "keyword": "^^2" },
+  { "name": "Superscript - 3", "text": "³", "keyword": "^^3" },
+  { "name": "Superscript - 4", "text": "⁴", "keyword": "^^4" },
+  { "name": "Superscript - 5", "text": "⁵", "keyword": "^^5" },
+  { "name": "Superscript - 6", "text": "⁶", "keyword": "^^6" },
+  { "name": "Superscript - 7", "text": "⁷", "keyword": "^^7" },
+  { "name": "Superscript - 8", "text": "⁸", "keyword": "^^8" },
+  { "name": "Superscript - 9", "text": "⁹", "keyword": "^^9" },
+  { "name": "Subscript - 1",  "text": "₁",   "keyword": "__1" },
+  { "name": "Subscript - 2",  "text": "₂",   "keyword": "__2" },
+  { "name": "Subscript - 3",  "text": "₃",   "keyword": "__3" },
+  { "name": "Subscript - 4",  "text": "₄",   "keyword": "__4" },
+  { "name": "Subscript - 5",  "text": "₅",   "keyword": "__5" },
+  { "name": "Subscript - 6",  "text": "₆",   "keyword": "__6" },
+  { "name": "Subscript - 7",  "text": "₇",   "keyword": "__7" },
+  { "name": "Subscript - 8",  "text": "₈",   "keyword": "__8" },
+  { "name": "Subscript - 9",  "text": "₉",   "keyword": "__9" }
+]
