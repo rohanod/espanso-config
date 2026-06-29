@@ -1,0 +1,7 @@
+name: "script-numbers-plusminus-9"
+title: "Script Numbers (±1..9)"
+description: Superscript and subscript number snippets with negative variants.
+version: 0.1.0
+author: Rohan
+tags: ["unicode", "math", "numbers", "superscript", "subscript"]
+homepage: "https://github.com/rohanod/espanso-config"

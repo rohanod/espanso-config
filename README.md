@@ -5,7 +5,7 @@ This repository hosts Espanso snippets that I use.
 ## Package
 
 - `term-snippets`
-- 
+- `script-numbers-plusminus-9`
 
 ## Install (external git repository)
 
