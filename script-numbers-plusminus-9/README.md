@@ -8,3 +8,7 @@ Espanso snippets for superscript and subscript digits with negative variants.
 - Superscript negative: `^^-2` .. `^^-9`
 - Subscript positive: `__1` .. `__9`
 - Subscript negative: `__-1` .. `__-9`
+
+## Install Command
+
+`espanso install script-numbers-plusminus-9 --git https://github.com/rohanod/espanso-config --external`

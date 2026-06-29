@@ -11,4 +11,4 @@ This repository hosts Espanso snippets that I use.
 
 Use Espanso's external package install flow:
 
-`espanso install rohans-espanso-config --git https://github.com/rohanod/espanso-config --external`
+`espanso install {package_name} --git https://github.com/rohanod/espanso-config --external`
