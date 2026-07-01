@@ -6,6 +6,7 @@ This repository hosts Espanso snippets that I use.
 
 - `term-snippets`
 - `script-numbers-plusminus-9`
+- `greek-letters`
 
 ## Install (external git repository)
 
