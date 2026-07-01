@@ -11,19 +11,22 @@ This repository hosts Espanso snippets that I use.
 
 Use Espanso's external package install flow:
 
-`espanso install {package_name} --git https://github.com/rohanod/espanso-config --external`
+```bash
+espanso install {package_name} --git https://github.com/rohanod/espanso-config --external
+
+espanso restart
+```
 
 ## Install (local git repository)
 
 Alternatively, you can clone this repository and install the packages locally:
 
 1. Clone the repo
-2. Navigate to the repo
-3. Run the following commands:
+2. Run the following commands:
 
 ```bash
 espanso install {package_name} \
-  --git "file://$PWD" \
+  --git "file://{cloned repo path}" \
   --external \
   --force \
   --use-native-git
