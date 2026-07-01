@@ -14,37 +14,50 @@ matches:
   - trigger: "!leq"
     label: "Math Symbols - Less or Equal"
     replace: "≤"
+  - trigger: "<="
+    label: "Math Symbols - Less or Equal (alternative)"
+    replace: "≤"
 
   - trigger: "!geq"
     label: "Math Symbols - Greater or Equal"
+    replace: "≥"
+  - trigger: ">="
+    label: "Math Symbols - Greater or Equal (alternative)"
     replace: "≥"
 
   - trigger: "!neq"
     label: "Math Symbols - Not Equal"
     replace: "≠"
-
-  - trigger: "!lt"
-    label: "Math Symbols - Less Than"
-    replace: "<"
-
-  - trigger: "!gt"
-    label: "Math Symbols - Greater Than"
-    replace: ">"
+  - trigger: "!="
+    label: "Math Symbols - Not Equal (alternative)"
+    replace: "≠"
 
   - trigger: "!pm"
     label: "Math Symbols - Plus Minus"
+    replace: "±"
+  - trigger: "+-"
+    label: "Math Symbols - Plus Minus (alternative)"
     replace: "±"
 
   - trigger: "!mp"
     label: "Math Symbols - Minus Plus"
     replace: "∓"
+  - trigger: "-+"
+    label: "Math Symbols - Minus Plus (alternative)"
+    replace: "∓"
 
   - trigger: "!div"
     label: "Math Symbols - Division"
     replace: "÷"
+  - trigger: "!/"
+    label: "Math Symbols - Division (alternative)"
+    replace: "÷"
 
   - trigger: "!times"
     label: "Math Symbols - Multiply"
+    replace: "×"
+  - trigger: "!*"
+    label: "Math Symbols - Multiply (alternative)"
     replace: "×"
 
   - trigger: "!pi"
@@ -63,11 +76,11 @@ matches:
     label: "Math Symbols - Not Element Of"
     replace: "∉"
 
-  - trigger: "!intersection"
+  - trigger: "!int"
     label: "Math Symbols - Intersection"
     replace: "∩"
 
-  - trigger: "!union"
+  - trigger: "!un"
     label: "Math Symbols - Union"
     replace: "∪"
 
@@ -83,6 +96,10 @@ matches:
     label: "Math Symbols - Therefore"
     replace: "∴"
 
+  - trigger: "!because"
+    label: "Math Symbols - Because"
+    replace: "∵"
+
   - trigger: "!alpha"
     label: "Math Symbols - Alpha"
     replace: "α"
@@ -94,3 +111,7 @@ matches:
   - trigger: "!delta"
     label: "Math Symbols - Delta"
     replace: "Δ"
+
+  - trigger: "!theta"
+    label: "Math Symbols - Theta"
+    replace: "θ"
