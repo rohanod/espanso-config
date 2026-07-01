@@ -1,0 +1,96 @@
+matches:
+  - trigger: "!inf"
+    label: "Math Symbols - Infinity"
+    replace: "∞"
+
+  - trigger: "!sqrt"
+    label: "Math Symbols - Square Root"
+    replace: "√"
+
+  - trigger: "!approx"
+    label: "Math Symbols - Approximately"
+    replace: "≈"
+
+  - trigger: "!leq"
+    label: "Math Symbols - Less or Equal"
+    replace: "≤"
+
+  - trigger: "!geq"
+    label: "Math Symbols - Greater or Equal"
+    replace: "≥"
+
+  - trigger: "!neq"
+    label: "Math Symbols - Not Equal"
+    replace: "≠"
+
+  - trigger: "!lt"
+    label: "Math Symbols - Less Than"
+    replace: "<"
+
+  - trigger: "!gt"
+    label: "Math Symbols - Greater Than"
+    replace: ">"
+
+  - trigger: "!pm"
+    label: "Math Symbols - Plus Minus"
+    replace: "±"
+
+  - trigger: "!mp"
+    label: "Math Symbols - Minus Plus"
+    replace: "∓"
+
+  - trigger: "!div"
+    label: "Math Symbols - Division"
+    replace: "÷"
+
+  - trigger: "!times"
+    label: "Math Symbols - Multiply"
+    replace: "×"
+
+  - trigger: "!pi"
+    label: "Math Symbols - Pi"
+    replace: "π"
+
+  - trigger: "!null"
+    label: "Math Symbols - Empty Set"
+    replace: "∅"
+
+  - trigger: "!element"
+    label: "Math Symbols - Element Of"
+    replace: "∈"
+
+  - trigger: "!notelement"
+    label: "Math Symbols - Not Element Of"
+    replace: "∉"
+
+  - trigger: "!intersection"
+    label: "Math Symbols - Intersection"
+    replace: "∩"
+
+  - trigger: "!union"
+    label: "Math Symbols - Union"
+    replace: "∪"
+
+  - trigger: "!subset"
+    label: "Math Symbols - Subset"
+    replace: "⊂"
+
+  - trigger: "!subseteq"
+    label: "Math Symbols - Subset or Equal"
+    replace: "⊆"
+
+  - trigger: "!therefore"
+    label: "Math Symbols - Therefore"
+    replace: "∴"
+
+  - trigger: "!alpha"
+    label: "Math Symbols - Alpha"
+    replace: "α"
+
+  - trigger: "!beta"
+    label: "Math Symbols - Beta"
+    replace: "β"
+
+  - trigger: "!delta"
+    label: "Math Symbols - Delta"
+    replace: "Δ"
